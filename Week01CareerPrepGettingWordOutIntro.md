@@ -30,7 +30,7 @@ Over the Summer me and my roommates got really into to cooperative style board g
 
 ## Resume:
 **Upload your resume to your GitHub directory, along with your cover letter, and provide a link.**  
-[Resume Link](JacksonWestover397Resume.pdf)  
+[Resume Link]([JacksonWestover397Resume.pdf](https://github.com/jcwestover/CSE-397/blob/main/Jackson%20Westover%20397%20Resume.pdf))  
 **Main Features:**  
 1. <!-- Describe the first unique element of your resume -->
 2. <!-- Describe the second unique element of your resume -->
