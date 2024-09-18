@@ -5,7 +5,6 @@ Jackson Westover
 <!-- Enter your name here -->
 
 ## Background:
-**Who are you?**
 <!-- Provide a brief background about yourself here -->
 I am currently studying Computer Science with emphasis in Machine Learning at BYU-I
 
@@ -28,18 +27,12 @@ Before changing my major to Computer Science, I was studying Exercise Physiology
 <!-- Provide a brief explanation of the photo -->
 Over the Summer me and my roommates got really into to cooperative style board games so we have been spending alot of time playing through this series (10/10 if anyone is looking for a new game)
 
-## Resume:
-**Upload your resume to your GitHub directory, along with your cover letter, and provide a link.**  
-[Resume Link]([JacksonWestover397Resume.pdf](https://github.com/jcwestover/CSE-397/blob/main/Jackson%20Westover%20397%20Resume.pdf))  
+## Resume:  
+[Resume Link](https://github.com/jcwestover/CSE-397/blob/main/Jackson%20Westover%20397%20Resume.pdf)  
 **Main Features:**  
-1. <!-- Describe the first unique element of your resume -->
-2. <!-- Describe the second unique element of your resume -->
+1. <!-- Describe the first unique element of your resume --> Academic Projects with Leadership: Highlighting leadership in academic projects, like being an administrator for a student committee, demonstrates initiative, project management, and problem-solving skills. The focus on improving student experience and collaborating with university officials adds depth and relevance.
+2. <!-- Describe the second unique element of your resume --> Technical Certifications & Skills: My resume lists relevant certifications (Machine Learning, Data Structures, etc.) and ranks technical skills by proficiency, which showcases expertise in key areas such as Python, React, Tensorflow, and web development. This provides a clear snapshot of both academic knowledge and practical skillsets.
 
-## LinkedIn:
-**Link to your professional networking website:**  
-[LinkedIn Profile](link_to_linkedin)  
-*If you don’t have one, create it. No excuses, we are networking here!*
+## LinkedIn:  
+[LinkedIn Profile](www.linkedin.com/in/jackson-westover)  
 
-## File Link:
-**Check in the file and provide a link to your file:**  
-[File Link](link_to_file)
